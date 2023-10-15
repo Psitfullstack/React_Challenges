@@ -1,0 +1,20 @@
+- Render an <App /> component
+
+- App should be in its own file
+
+-create Card component(Card component defined in its own file too)
+
+-use bootstrap card template as jsx in Card component.
+
+-put all three given images in your public folder.
+
+-create 2-3 objects in root component(i.e) <App /> component.
+
+
+-Inside each objects store properties like img,title,text(to store img address,card title,cardtext etc).
+
+-render 2-3 <Card/> components in root <App /> component.
+
+- pass each objects as props in <Card/> components.
+
+- finally use all properties to display in Card component.
