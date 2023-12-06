@@ -1,11 +1,13 @@
 .counter {
     display: flex;
     align-items: flex-end;
+    justify-content: space-between;
+    width: 500px;
 }
 
 .counter > button {
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
     border-radius: 50%;
     border: none;
     cursor: pointer;
